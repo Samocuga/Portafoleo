@@ -1,0 +1,22 @@
+.Titulo{
+    margin: auto;
+    max-width: 230px;
+    width: 100%;
+    float: right;
+    margin-right:530px;
+    color:#d36923;
+}
+.Cuerpo{
+    max-width: 400px;
+    width: 100%;
+    font-size: 17px;
+    margin-left: 590px;
+}
+.Titulo2{
+    margin: auto;
+    max-width: 230px;
+    width: 100%;
+    float: right;
+    margin-right:530px;
+    color:#3883c4;
+}

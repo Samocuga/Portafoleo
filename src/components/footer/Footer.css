@@ -1,0 +1,17 @@
+hr{
+    max-width: 700px;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 20px;
+    height: 5px;
+    color: #3883c4;
+}
+.pe{
+    max-width: 700px;
+    width: 100%;
+    margin: auto;
+    margin-top: 290px;
+    margin-left: 750px;
+    color: #3883c4;
+    font-size: 20px;
+}
